@@ -8,6 +8,9 @@
 * Station keeping (Tuesday)
   * `station_keeping.csv`: marker locations for the challenge
 * Area scanning (Wednesday)
+  * `area_scanning.csv`: marker of the area location
+  *  58 cells between A and C, and 45 cells between A and B
+  *  cells are 4m squares
 * Obstacle avoidance (Thursday)
 
 
