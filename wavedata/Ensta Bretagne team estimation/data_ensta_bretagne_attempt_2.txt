@@ -1,0 +1,3 @@
+Wave period (s) : 4,53103760761
+Wave height (m) : 0.20
+Wave direction (degree) : 63
