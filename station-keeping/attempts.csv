@@ -1,16 +1,16 @@
-Boat,Attempt no,Start BST,End BST,Data file,Class
-Southampton,1,13:02,13:14,Soton-and-ZMART.csv,Micro sailboat
+Boat,Attempt_no,Start_BST,End_BST,Data_file,Class
+Southampton,1,13:02,13:14,Soton-and-ZMART.csv,Micro_sailboat
 Shanghai,1,13:13,13:21,Shanghai.csv,Sailboat
-Plymouth short,1,13:42,13:56,Plymouth.csv,Micro sailboat
-Southampton,2,13:48,13:56,Soton-and-ZMART.csv,Micro sailboat
+Plymouth_short,1,13:42,13:56,Plymouth.csv,Micro_sailboat
+Southampton,2,13:48,13:56,Soton-and-ZMART.csv,Micro_sailboat
 ENSTA,1,14:18,14:27,ENSTA1.csv,Sailboat
-Aberystwyth,1,14:20,14:40,Aberystwyth1.csv,Micro sailboat
+Aberystwyth,1,14:20,14:40,Aberystwyth1.csv,Micro_sailboat
 ENSTA,2,14:33,14:43,ENSTA1.csv,Sailboat
-Aberystwyth,2,14:41,14:49,Aberystwyth1.csv,Micro sailboat
-Aberystwyth,3,14:51,15:01,Aberystwyth1.csv,Micro sailboat
-Plymouth short,2,15:02,15:13,Plymouth.csv,Micro sailboat
-Plymouth short,3,15:16,15:22,Plymouth.csv,Micro sailboat
+Aberystwyth,2,14:41,14:49,Aberystwyth1.csv,Micro_sailboat
+Aberystwyth,3,14:51,15:01,Aberystwyth1.csv,Micro_sailboat
+Plymouth_short,2,15:02,15:13,Plymouth.csv,Micro_sailboat
+Plymouth_short,3,15:16,15:22,Plymouth.csv,Micro_sailboat
 Shanghai,2,15:18,15:26,Shanghai.csv,Sailboat
-ZMART,1,15:50,16:02,Soton-and-ZMART.csv,Micro sailboat
+ZMART,1,15:50,16:02,Soton-and-ZMART.csv,Micro_sailboat
 Shanghai,3,15:55,16:11,Shanghai.csv,Sailboat
-ZMART,2,16:31,16:37,Soton-and-ZMART.csv,Micro sailboat
+ZMART,2,16:31,16:37,Soton-and-ZMART.csv,Micro_sailboat
