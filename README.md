@@ -31,7 +31,7 @@ Each challenge has a folder containing daily results as well as boat tracks.
 | Rank | Team          | fleet-race | station-keeping | area-scanning | obstacle-avoidance | total |
 | ---- | ------------- | -----      | --              | --            | --                 | --    |
 | 1    | Southampton   | 1          |  2              |               |                    | 3     |
-| 5    | AberSailbot   | 5          |  1              |               |                    | 6     |
-| 2    | ZMART         | 2          |  5              |               |                    | 7     |
-| 5    | Plymouth      | 5          |  3              |               |                    | 8     |
+| 2    | AberSailbot   | 5          |  1              |               |                    | 6     |
+| 3    | ZMART         | 2          |  5              |               |                    | 7     |
+| 4    | Plymouth      | 5          |  3              |               |                    | 8     |
 
