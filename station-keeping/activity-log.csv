@@ -1,0 +1,64 @@
+time,team,event,boat
+1213,Shanghai,Depart for test,Nick
+1222,Plymouth Long,Depart for test,Tom
+1231,Shanghai,Return from test,Nick
+1233,Shanghai,Test from pontoon,-
+1244,Plymouth Long,Return from test,Tom
+1248,Plymouth Long,Test from pontoon,-
+1252,Southampton,Out for attempt,Nick
+1257,Shanghai,Contact lost with boat; out to recover,Tom
+1300,Shanghai,Return from recovery,Tom
+1302,Southampton,Gone autonomous,Nick
+1305,Shanghai,Out for attempt,Chris
+1313,Shanghai,Gone autonomous,Chris
+1314,Southampton,Gone RC,Nick
+1321,Shanghai,Gone RC,Chris
+1321,Southampton,Return from attempt,Nick
+1325,Shanghai,Return from attempt,Nick
+1328,Plymouth Short,Out for attempt,Tom
+1333,Plymouth Short,Gone autonomous,Tom
+1335,Southampton,Out for attempt,Nick
+1336,Plymouth Short,Gone RC (abort),Tom
+1342,Plymouth Short,Gone autonomous,Tom
+1348,Southampton,Gone autonomous,Nick
+1356,Southampton,Gone RC,Nick
+1356,Plymouth Short,Gone RC,Tom
+1400,Plymouth Short,Return from attempt,Tom
+1401,Southampton,Return from attempt,Tom
+1409,Bretagne,Out for attempt,Chris
+1414,Aberystwyth,Out for attempt,Tom
+1418,Bretagne,Gone autonomous,Chris
+1420,Aberystwyth,Gone autonomous,Tom
+1427,Bretagne,Gone RC,Chris
+1433,Bretagne,Gone autonomous,Chris
+1435,-,Minor chop noted,-
+1440,Aberystwyth,Gone RC,Tom
+1441,Aberystwyth,Gone autonomous,Tom
+1443,Bretagne,Gone RC,Chris
+1449,Aberystwyth,Gone RC, Tom
+1451,Aberystwyth,Gone autonomous,Tom
+1453,Plymouth Short,Out for attempt,Nick
+1501,Aberystwyth,Gone RC,Tom
+1502,Plymouth Short,Gone autonomous,Nick
+1504,Bretagne,Return from attempt,Chris
+1504,Aberystwyth,Return from attempt,Tom
+1511,Shanghai,Out for attempt,Chris
+1513,Plymouth Short,Gone RC,Nick
+1516,Plymouth Short,Gone autonomous,Nick
+1518,Shanghai,Gone autonomous,Chris
+1522,Plymouth Short,Gone RC,Nick
+1526,Shanghai,Gone RC,Chris
+1528,Plymouth Short,Return from attempt,Nick
+1533,Shanghai,Return from attempt,Chris
+1538,ZMART,Out for attempt,Tom
+1545,Shanghai,Out for attempt,Chris
+1550,ZMART,Gone autonomous,Tom
+1555,Shanghai,Gone autonomous,Chris
+1602,ZMART,Gone RC,Tom
+1611,Shanghai,Gone RC,Chris
+1614,Shanghai,Return from attempt,Chris
+1616,-,Sophia out scheming,Chris
+1631,ZMART,Gone autonomous,Tom
+1636,-,Sophia back from scheming,Chris
+1637,ZMART,Gone RC,Tom
+1639,ZMART,Return from attempt,Tom
