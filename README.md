@@ -6,6 +6,7 @@
   * `fleet-race`: GPS tracks from the attempts
   * [fleet-race/Plotting.ipynb](http://nbviewer.jupyter.org/github/WRSC/coordinates2018/blob/master/fleet-race/Plotting.ipynb): Maps of the attempts.
 * Station keeping (Tuesday)
+  * `station_keeping.csv`: marker locations for the challenge
 * Area scanning (Wednesday)
 * Obstacle avoidance (Thursday)
 
