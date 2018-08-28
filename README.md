@@ -1,8 +1,13 @@
 # GPS coordinates for WRSC 2018
 
-The coordinates to define the challenges will go in this repository.
-
 * `wall.csv`: coordinates for a location just outside the preparation room, to test your GPS
+* Fleet race (Monday)
+  * `fleet_race.csv`: marker locations for the challenge
+  * `fleet-race`: GPS tracks from the attempts
+  * [fleet-race/Plotting.ipynb](http://nbviewer.jupyter.org/github/WRSC/coordinates2018/blob/master/fleet-race/Plotting.ipynb): Maps of the attempts.
+* Station keeping (Tuesday)
+* Area scanning (Wednesday)
+* Obstacle avoidance (Thursday)
 
 
 # Results
