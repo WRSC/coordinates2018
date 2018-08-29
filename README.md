@@ -4,9 +4,10 @@
 * Fleet race (Monday)
   * `fleet_race.csv`: marker locations for the challenge
   * `fleet-race`: GPS tracks from the attempts
-  * [fleet-race/Plotting.ipynb](http://nbviewer.jupyter.org/github/WRSC/coordinates2018/blob/master/fleet-race/Plotting.ipynb): Maps of the attempts.
+  * [fleet-race/Plotting.ipynb](https://nbviewer.jupyter.org/github/WRSC/coordinates2018/blob/master/fleet-race/Plotting.ipynb): Maps of the attempts.
 * Station keeping (Tuesday)
   * `station_keeping.csv`: marker locations for the challenge
+  * [station-keeping/Plotting.ipynb](https://nbviewer.jupyter.org/github/WRSC/coordinates2018/blob/master/station-keeping/Plotting.ipynb): Maps of the attempts.
 * Area scanning (Wednesday)
   * `area_scanning.csv`: marker of the area location
   *  58 cells between A and C, and 45 cells between A and B
