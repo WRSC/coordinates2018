@@ -19,12 +19,12 @@ Each challenge has a folder containing daily results as well as boat tracks.
 
 
 ### Sailbot class
-| Rank  | Team          | fleet-race | station-keeping | area-scanning | obstacle-avoidance | total |
+| Rank  | Team          | fleet-race  | station-keeping | area-scanning | obstacle-avoidance | total |
 | ----- | ------------- | -----      | --              | --            | --                 | --    |
-| 1     | ENSTA         | 1          | 1               |               |                    | 1     |
-| 2     | SJTU          | 2          | 2               |               |                    | 2     |
-| 5     | Åland         | 5          | 5               |               |                    | 5     |
-| 5     | Plymouth      | 5          | 5               |               |                    | 5     |
+| 1     | ENSTA         | 1          | 1               |               |                    | 2     |
+| 2     | SJTU          | 2          | 2               |               |                    | 4     |
+| 3     | Åland         | 5          | 5               |               |                    | 10    |
+| 3     | Plymouth      | 5          | 5               |               |                    | 10    |
 
 
 ### Micro-Sailbot class
