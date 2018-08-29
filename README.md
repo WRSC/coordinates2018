@@ -33,6 +33,5 @@ Each challenge has a folder containing daily results as well as boat tracks.
 | ---- | ------------- | -----      | --              | --            | --                 | --    |
 | 1    | Southampton   | 1          |  2              |               |                    | 3     |
 | 2    | AberSailbot   | 5          |  1              |               |                    | 6     |
-| 3    | ZMART         | 2          |  5              |               |                    | 7     |
+| 3    | ZMART         | 2          |  4              |               |                    | 6     |
 | 4    | Plymouth      | 5          |  3              |               |                    | 8     |
-
