@@ -18,7 +18,7 @@
 Each challenge has a folder containing daily results as well as boat tracks.
 
 
-### Sailbot class
+### Sailboat class
 | Rank  | Team          | fleet-race  | station-keeping | area-scanning | obstacle-avoidance | total |
 | ----- | ------------- | -----      | --              | --            | --                 | --    |
 | 1     | ENSTA         | 1          | 1               |               |                    | 2     |
@@ -27,8 +27,8 @@ Each challenge has a folder containing daily results as well as boat tracks.
 | 3     | Plymouth      | 5          | 5               |               |                    | 10    |
 
 
-### Micro-Sailbot class
-| Rank | Team          | fleet-race | station-keeping | area-scanning | obstacle-avoidance | total |
+### Micro-Sailboat class
+| Rank | Team          | fleet-race  | station-keeping | area-scanning | obstacle-avoidance | total |
 | ---- | ------------- | -----      | --              | --            | --                 | --    |
 | 1    | Southampton   | 1          |  2              |               |                    | 3     |
 | 2    | AberSailbot   | 5          |  1              |               |                    | 6     |
