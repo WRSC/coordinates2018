@@ -3,7 +3,7 @@
 ### Sailbot class
 | Rank  | Team          | Comment                                                       |
 | ----- | ------------- | -----                                                         |
-| 1     | ENSTA         | Reached waypoint A, B and C. Did not reached final waypoint A |
+| 1     | ENSTA         | Completed the fleet race                                      |
 | 2     | SJTU          | Reached only waypoint A                                       |
 | 5     | Åland         | Did not reach the first waypoint                              |
 | 5     | Plymouth      | Did not reach the first waypoint                              |
@@ -16,4 +16,3 @@
 | 2    | ZMART         | Reached only waypoint A          |
 | 5    | AberSailbot   | Did not reach the first waypoint |
 | 5    | Plymouth      | Did not reach the first waypoint |
-
