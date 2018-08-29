@@ -8,10 +8,12 @@
 * Station keeping (Tuesday)
   * `station_keeping.csv`: marker locations for the challenge
   * [station-keeping/Plotting.ipynb](https://nbviewer.jupyter.org/github/WRSC/coordinates2018/blob/master/station-keeping/Plotting.ipynb): Maps of the attempts.
+  * [station-keeping/Weather-28-08-2018.ipynb](https://nbviewer.jupyter.org/github/WRSC/coordinates2018/blob/master/station-keeping/Weather_28-08-2018.ipynb): Weather data from the day
 * Area scanning (Wednesday)
   * `area_scanning.csv`: marker of the area location
   *  58 cells between A and C, and 45 cells between A and B
   *  cells are 4m squares
+  * [area-scanning/Weather-29-08-2018.ipynb](https://nbviewer.jupyter.org/github/WRSC/coordinates2018/blob/master/station-keeping/Weather_29-08-2018.ipynb): Weather data from the day
 * Obstacle avoidance (Thursday)
 
 
