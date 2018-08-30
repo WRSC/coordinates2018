@@ -1,0 +1,6 @@
+boat_name,in_window,filename
+Plymouth (Sailboat),true,attempt_Sailboat/plymouth_attempt1.csv
+ENSTA,true,attempt_Sailboat/ensta_attempt1.csv
+SJTU,true,attempt_Sailboat/stju_attempt1.csv
+SJTU,false,attempt_Sailboat/stju_attempt2.csv
+Åland,true,attempt_Sailboat/aland_attempt1.csv
