@@ -1,0 +1,9 @@
+boat_name,in_window,filename
+Plymouth (Micro-Sailboat),true,attempt_microsailbot/plymouth_attempt1.csv
+Plymouth (Micro-Sailboat),false,attempt_microsailbot/plymouth_attempt2.csv
+ZMART,true,attempt_microsailbot/zmart_attempt1.csv
+ZMART,false,attempt_microsailbot/zmart_attempt2.csv
+Southampton,true,attempt_microsailbot/southampton_attempt1.csv
+Southampton,false,attempt_microsailbot/southampton_attempt2.csv
+AberSailbot,true,attempt_microsailbot/abersailbot_attempt1.csv
+AberSailbot,false,attempt_microsailbot/abersailbot_attempt2.csv
