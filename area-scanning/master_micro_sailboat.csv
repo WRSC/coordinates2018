@@ -3,7 +3,6 @@ Plymouth (Micro-Sailboat),true,microsailboat_attempts/Plymouth1.csv
 Plymouth (Micro-Sailboat),false,microsailboat_attempts/Plymouth2.csv
 ZMART,true,microsailboat_attempts/ZMART1.csv
 ZMART,false,microsailboat_attempts/ZMART2.csv
-Southampton,true,microsailboat_attempts/Southampton1.csv
 Southampton,false,microsailboat_attempts/Southampton2.csv
 AberSailbot,true,microsailboat_attempts/AberSailbot1.csv
 AberSailbot,false,microsailboat_attempts/AberSailbot2.csv
