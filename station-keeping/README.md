@@ -48,4 +48,4 @@ Please talk to the organisers if you want us to reexamine your attempt.
 | 1    | AberSailbot   | 9.68   |
 | 2    | Southampton   | 11.10  |
 | 3    | Plymouth      | 13.26  |
-| 5    | ZMART         | 16.22  |
+| 4    | ZMART         | 16.22  |
