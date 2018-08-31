@@ -15,7 +15,7 @@
   *  cells are 4m squares
   * [area-scanning/Weather-29-08-2018.ipynb](https://nbviewer.jupyter.org/github/WRSC/coordinates2018/blob/master/area-scanning/Weather_29-08-2018.ipynb): Weather data from the day
 * Obstacle avoidance (Thursday)
-
+  * [obstacle-avoidance/Weather-30-08-2018.ipynb](https://nbviewer.jupyter.org/github/WRSC/coordinates2018/blob/master/obstacle-avoidance/Weather_30-08-2018.ipynb): Weather data from the day
 
 # Results
 Each challenge has a folder containing daily results as well as boat tracks.
