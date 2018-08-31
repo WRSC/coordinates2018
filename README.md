@@ -24,16 +24,16 @@ Each challenge has a folder containing daily results as well as boat tracks.
 ### Sailboat class
 | Rank  | Team          | fleet-race | station-keeping | area-scanning | obstacle-avoidance | total |
 | ----- | ------------- | -----      | --              | --            | --                 | --    |
-| 1     | ENSTA         | 1          | 1               | 1             |                    | 3     |
-| 2     | SJTU          | 2          | 2               | 2             |                    | 6     |
-| 3     | Plymouth      | 5          | 5               | 3             |                    | 13    |
-| 4     | Åland         | 5          | 5               | 5             |                    | 15    |
+| 1     | ENSTA         | 1          | 1               | 1             | 1                  | 4     |
+| 2     | SJTU          | 2          | 2               | 2             | 2                  | 8     |
+| 3     | Plymouth      | 5          | 5               | 3             | 5                  | 18    |
+| 4     | Åland         | 5          | 5               | 5             | 5                  | 20    |
 
 
 ### Micro-Sailboat class
 | Rank | Team          | fleet-race | station-keeping | area-scanning | obstacle-avoidance | total |
 | ---- | ------------- | -----      | --              | --            | --                 | --    |
-| 1    | Southampton   | 1          | 2               | 1             |                    | 4     |
-| 2    | AberSailbot   | 5          | 1               | 2             |                    | 8     |
-| 3    | ZMART         | 2          | 4               | 5             |                    | 11    |
-| 3    | Plymouth      | 5          | 3               | 3             |                    | 11    |
+| 1    | Southampton   | 1          | 2               | 1             | 1                  | 5     |
+| 2    | AberSailbot   | 5          | 1               | 2             | 5                  | 13    |
+| 3    | ZMART         | 2          | 4               | 5             | 5                  | 16    |
+| 3    | Plymouth      | 5          | 3               | 3             | 5                  | 16    |
