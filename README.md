@@ -13,6 +13,7 @@
   * `area_scanning.csv`: marker of the area location
   *  58 cells between A and C, and 45 cells between A and B
   *  cells are 4m squares
+  * [area-scanning/Plotting attempts.ipynb](https://nbviewer.jupyter.org/github/WRSC/coordinates2018/blob/master/area-scanning/Plotting%20attempts.ipynb): Weather data from the day
   * [area-scanning/Weather-29-08-2018.ipynb](https://nbviewer.jupyter.org/github/WRSC/coordinates2018/blob/master/area-scanning/Weather_29-08-2018.ipynb): Weather data from the day
 * Obstacle avoidance (Thursday)
   * [obstacle-avoidance/Plotting.ipynb](https://nbviewer.jupyter.org/github/WRSC/coordinates2018/blob/master/obstacle-avoidance/Plotting.ipynb): Maps of the attempts.
