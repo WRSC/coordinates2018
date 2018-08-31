@@ -18,5 +18,3 @@ The following teams made valid attempts:
 Of the other teams, Aberystwyth sailed a length along the edge of course 2,
 but didn't stay in the course area. Plymouth was starting a length of course 2
 when their battery ran out, and the boat lost control.
-
-Results may be updated if team ZMART can provide GPS data.
